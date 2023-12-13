@@ -1,12 +1,16 @@
 #standards
 f - file
 d - data
-p - piece
+p - part separated by \n\n
 r - row
 c - column
 a - character
-g, h - function
+g, h - functions
 s - string
+b - bool
+e - general purpose variable
+i, j - row, column indices
 n - list of numbers
 l - list
+u - subtotal
 t - total
