@@ -6,7 +6,6 @@ import itertools
 from functools import cache
 
 t = 0
-boxes = {}
 
 for s in d.strip().split(','):
     u = 0
