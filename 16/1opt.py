@@ -7,7 +7,6 @@ with open('./input.txt', 'r') as f:
 
 import re
 import itertools
-from typing import List, Tuple, Mapping
 from functools import cache
 
 t = 0
